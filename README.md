@@ -1,5 +1,5 @@
-# 💫 About Me:
-## Hey there! I'm Arfa ✨<br><br>A Computer Systems Engineer who loves transforming ideas into intelligent solutions.<br><br>I build projects around:<br>🧠 Artificial Intelligence & LLMs  <br>🤖 Agentic AI and autonomous systems  <br>🌐 Full-stack applications  <br>🔧 IoT and hardware-software integration  <br><br>Beyond coding, I enjoy exploring new technologies, learning languages, and creating things that solve real problems.<br><br>Always learning, experimenting, and building.
+# About Me:
+## Hey there! I'm Arfa <br><br>A Computer Systems Engineer who loves transforming ideas into intelligent solutions.<br><br>I build projects around:<br>🧠 Artificial Intelligence & LLMs  <br>🤖 Agentic AI and autonomous systems  <br>🌐 Full-stack applications  <br>🔧 IoT and hardware-software integration  <br><br>Beyond coding, I enjoy exploring new technologies, learning languages, and creating things that solve real problems.<br><br>Always learning, experimenting, and building.
 
 
 ## 🌐 Socials:
@@ -15,7 +15,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-[![](https://komarev.com/ghpvc/?username=Arfa-Tariq&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
